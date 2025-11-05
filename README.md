@@ -101,6 +101,22 @@ void ExecuteRenderPasses()
 }
 
 
+🔗 Source Control Reference
+
+NOTE: Due to proprietary and confidentiality agreements, the source code for this project cannot be made public (as per Clause 13 in the Offer Letter).
+
+Internal Repository Location:
+The complete, implemented source code is stored on Blue Stone Tech Labs Pvt. Ltd.'s internal version control system.
+
+Project Path: //depot/rhino-renderer/features/gemstone_optics
+
+Final Commit Hash/Branch: [INSERT FINAL COMMIT HASH OR BRANCH NAME HERE]
+
+Access: Access restricted to internal employees and management.
+
+Academic Submission Note (If applicable):
+For external academic review, a sanitized copy of the HLSL and C++ files, stripped of proprietary framework dependencies, is provided under separate confidential cover.
+
 📝 Usage and Integration
 
 Material Setup: Ensure all gemstone materials are assigned gemstoneIOR and gemstoneAbbe values in the material constants buffer.
